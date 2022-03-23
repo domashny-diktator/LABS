@@ -1,0 +1,6 @@
+F:\HarchenkoIVT-6\lab12\lab12\obj\x86\Debug\lab12.Form1.resources
+F:\HarchenkoIVT-6\lab12\lab12\obj\x86\Debug\lab12.Properties.Resources.resources
+F:\HarchenkoIVT-6\lab12\lab12\obj\x86\Debug\lab12.csproj.GenerateResource.Cache
+F:\Новая папка (3)\lab12\lab12\obj\x86\Debug\lab12.Form1.resources
+F:\Новая папка (3)\lab12\lab12\obj\x86\Debug\lab12.Properties.Resources.resources
+F:\Новая папка (3)\lab12\lab12\obj\x86\Debug\lab12.csproj.GenerateResource.Cache
