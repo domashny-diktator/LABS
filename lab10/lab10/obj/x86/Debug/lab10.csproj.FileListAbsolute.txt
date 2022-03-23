@@ -1,0 +1,16 @@
+F:\HarchenkoIVT-6\lab10\lab10\bin\Debug\lab10.exe
+F:\HarchenkoIVT-6\lab10\lab10\bin\Debug\lab10.pdb
+F:\HarchenkoIVT-6\lab10\lab10\obj\x86\Debug\lab10.Form1.resources
+F:\HarchenkoIVT-6\lab10\lab10\obj\x86\Debug\lab10.Properties.Resources.resources
+F:\HarchenkoIVT-6\lab10\lab10\obj\x86\Debug\lab10.csproj.GenerateResource.Cache
+F:\HarchenkoIVT-6\lab10\lab10\obj\x86\Debug\lab10.exe
+F:\HarchenkoIVT-6\lab10\lab10\obj\x86\Debug\lab10.pdb
+F:\HarchenkoIVT-6\Новая папка\lab10\lab10\obj\x86\Debug\lab10.exe
+F:\HarchenkoIVT-6\Новая папка\lab10\lab10\obj\x86\Debug\lab10.pdb
+F:\HarchenkoIVT-6\Новая папка\lab10\lab10\bin\Debug\lab10.exe
+F:\HarchenkoIVT-6\Новая папка\lab10\lab10\bin\Debug\lab10.pdb
+F:\HarchenkoIVT-6\Новая папка\lab10\lab10\obj\x86\Debug\lab10.Form1.resources
+F:\HarchenkoIVT-6\Новая папка\lab10\lab10\obj\x86\Debug\lab10.Properties.Resources.resources
+F:\HarchenkoIVT-6\Новая папка\lab10\lab10\obj\x86\Debug\lab10.csproj.GenerateResource.Cache
+F:\Новая папка (3)\lab10\lab10\obj\x86\Debug\lab10.exe
+F:\Новая папка (3)\lab10\lab10\obj\x86\Debug\lab10.pdb
