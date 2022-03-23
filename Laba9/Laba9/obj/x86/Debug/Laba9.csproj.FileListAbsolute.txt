@@ -1,0 +1,21 @@
+F:\HarchenkoIVT-6\Laba9\Laba9\bin\Debug\Laba9.exe
+F:\HarchenkoIVT-6\Laba9\Laba9\bin\Debug\Laba9.pdb
+F:\HarchenkoIVT-6\Laba9\Laba9\obj\x86\Debug\Laba9.Form1.resources
+F:\HarchenkoIVT-6\Laba9\Laba9\obj\x86\Debug\Laba9.Properties.Resources.resources
+F:\HarchenkoIVT-6\Laba9\Laba9\obj\x86\Debug\Laba9.csproj.GenerateResource.Cache
+F:\HarchenkoIVT-6\Laba9\Laba9\obj\x86\Debug\Laba9.exe
+F:\HarchenkoIVT-6\Laba9\Laba9\obj\x86\Debug\Laba9.pdb
+F:\HarchenkoIVT-6\Новая папка\Laba9\Laba9\obj\x86\Debug\Laba9.exe
+F:\HarchenkoIVT-6\Новая папка\Laba9\Laba9\obj\x86\Debug\Laba9.pdb
+F:\HarchenkoIVT-6\Новая папка\Laba9\Laba9\bin\Debug\Laba9.exe
+F:\HarchenkoIVT-6\Новая папка\Laba9\Laba9\bin\Debug\Laba9.pdb
+F:\HarchenkoIVT-6\Новая папка\Laba9\Laba9\obj\x86\Debug\Laba9.Form1.resources
+F:\HarchenkoIVT-6\Новая папка\Laba9\Laba9\obj\x86\Debug\Laba9.Properties.Resources.resources
+F:\HarchenkoIVT-6\Новая папка\Laba9\Laba9\obj\x86\Debug\Laba9.csproj.GenerateResource.Cache
+G:\ДОННУ\Графика\Laba9\Laba9\obj\x86\Debug\Laba9.exe
+G:\ДОННУ\Графика\Laba9\Laba9\obj\x86\Debug\Laba9.pdb
+G:\ДОННУ\Графика\Laba9\Laba9\bin\Debug\Laba9.exe
+G:\ДОННУ\Графика\Laba9\Laba9\bin\Debug\Laba9.pdb
+G:\ДОННУ\Графика\Laba9\Laba9\obj\x86\Debug\Laba9.Form1.resources
+G:\ДОННУ\Графика\Laba9\Laba9\obj\x86\Debug\Laba9.Properties.Resources.resources
+G:\ДОННУ\Графика\Laba9\Laba9\obj\x86\Debug\Laba9.csproj.GenerateResource.Cache
